@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 
+=======
+"Hello World"
+>>>>>>> c779fa6 (Edit README.md and hello_world.txt)
