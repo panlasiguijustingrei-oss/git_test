@@ -1,0 +1,18 @@
+[33mcommit b4e1df4e47dddb24c3a4a5ce8bc750d516b991e0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: panlasiguijustingrei-oss <230427087+panlasiguijustingrei-oss@users.noreply.github.com>
+Date:   Thu Sep 11 02:21:48 2025 +0800
+
+    first commit
+
+[1mdiff --git a/hello_world.txt b/hello_world.txt[m
+[1mindex be5d95a..e99d1cb 100644[m
+[1m--- a/hello_world.txt[m
+[1m+++ b/hello_world.txt[m
+[36m@@ -1 +1,5 @@[m
+[31m-"Hello World"[m
+\ No newline at end of file[m
+[32m+[m[32m<<<<<<< HEAD[m
+[32m+[m[32m"Hello World"[m
+[32m+[m[32m=======[m
+[32m+[m
+[32m+[m[32m>>>>>>> c8302fe379637f6651c42b2fb7416698ec4f2cca[m

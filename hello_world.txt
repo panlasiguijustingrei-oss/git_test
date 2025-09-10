@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 "Hello World"
 >>>>>>> c779fa6 (Edit README.md and hello_world.txt)
+=======
+"Hello World"
+=======
+
+>>>>>>> c8302fe379637f6651c42b2fb7416698ec4f2cca
+>>>>>>> b4e1df4 (first commit)
